@@ -30,13 +30,10 @@ Location: Pune, Maharashtra, India
 Education: BTech Computer Engineering @ VIT Pune
 Focus: AI/ML, Cloud Computing, Cybersecurity
 Status: Building the future, one line of code at a time
-Fun Fact: I create Marathi voiceover reels as @GajarBoltoy! 🎭
 ```
 
 🏆 **Key Achievements:**
 - 🥇 **Finalist** @ IIT BHU Hackathon – AI Chat Health Manager
-- 🤖 **Creator** of XMachines – Weed Detection Bot for Farmers
-- 🎬 **Content Creator** with engaging Marathi voiceovers
 - 💻 **Full-Stack Developer** hosting dynamic applications
 
 ---
