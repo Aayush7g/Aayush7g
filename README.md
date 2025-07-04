@@ -8,9 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI+Explorer+%26+Tech+Innovator;⚡+Cybersecurity+Ninja;☁️+Cloud+%26+DevOps+Engineer;🎯+Problem+Solver+%26+Hackathon+Finalist;🌱+Building+Solutions+for+Tomorrow&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%9A%80+AI+Explorer+%26+Tech+Innovator;%E2%9A%A1+Cybersecurity+Ninja;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Engineer;%F0%9F%8E%AF+Problem+Solver+%26+Hackathon+Finalist;%F0%9F%8C%B1+Building+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aayush7g&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
