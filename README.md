@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI+Explorer+%26+Tech+Innovator;⚡+Cybersecurity+Ninja;☁️+Cloud+%26+DevOps+Engineer;📺+Content+Creator+%40GajarBoltoy;🎯+Problem+Solver+%26+Hackathon+Finalist;🌱+Building+Solutions+for+Tomorrow&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI+Explorer+%26+Tech+Innovator;⚡+Cybersecurity+Ninja;☁️+Cloud+%26+DevOps+Engineer;🎯+Problem+Solver+%26+Hackathon+Finalist;🌱+Building+Solutions+for+Tomorrow&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000"/>
 </div>
 
 <div align="center">
