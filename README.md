@@ -118,13 +118,17 @@ Currently shipping code, breaking things on purpose, and learning from the wreck
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayush7g&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/aayush7g/aayush7g/output/trophy.svg" alt="GitHub Trophies" />
 </div>
+
+> Self-hosted via GitHub Actions — the public trophy service has been rate-limited/unstable, so this repo now generates its own copy instead of depending on it.
 
 ---
 
 ### 💼 Featured Projects
+<sub>Auto-updated daily from my most-starred, non-fork public repos — no manual editing needed.</sub>
 
+<!-- PROJECTS:START -->
 <div align="center">
 
 <a href="https://github.com/aayush7g/XMachines">
@@ -135,6 +139,7 @@ Currently shipping code, breaking things on purpose, and learning from the wreck
 </a>
 
 </div>
+<!-- PROJECTS:END -->
 
 ---
 

@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/generate_trophies.py"
 
 jobs:
   generate:
@@ -14,7 +17,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,7 +28,19 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to output branch
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate self-hosted trophy stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATH: dist/trophy.svg
+        run: python3 .github/scripts/generate_trophies.py
+
+      - name: Push generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
