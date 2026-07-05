@@ -1,133 +1,144 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hello%20World!&fontSize=50&fontColor=fff&animation=twinkling" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=AAYUSH%20GADIYA&fontSize=60&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Perpetual%20Tinkerer&descAlignY=58&descAlign=50" width="100%"/>
+
 </div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there, I'm Aayush Gadiya! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%9A%80+AI+Explorer+%26+Tech+Innovator;%E2%9A%A1+Cybersecurity+Ninja;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Engineer;%F0%9F%8E%AF+Problem+Solver+%26+Hackathon+Finalist;%F0%9F%8C%B1+Building+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayush7g&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aayush7g?logo=github&style=flat-square&color=0e75b6&labelColor=1c1c1c" alt="GitHub followers" />
-  <a href="https://github.com/aayush7g"><img src="https://img.shields.io/github/stars/aayush7g?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0e75b6&labelColor=1c1c1c" alt="GitHub stars" /></a>
+
+```
+> whoami
+Aayush Gadiya — Software Engineer | AI/ML Explorer | Cloud & Cybersecurity
+
+> status
+Currently shipping code, breaking things on purpose, and learning from the wreckage.
+```
+
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayushgadiya">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-00F5D4?style=for-the-badge&logo=linkedin&logoColor=0F0C29&labelColor=0F0C29" />
+  </a>
+  <a href="https://twitter.com/aayush7g">
+    <img src="https://img.shields.io/badge/Twitter-follow-00F5D4?style=for-the-badge&logo=twitter&logoColor=0F0C29&labelColor=0F0C29" />
+  </a>
+  <a href="https://www.instagram.com/aayush._724/">
+    <img src="https://img.shields.io/badge/Instagram-say%20hi-00F5D4?style=for-the-badge&logo=instagram&logoColor=0F0C29&labelColor=0F0C29" />
+  </a>
+  <a href="mailto:aayushgadiya2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-reach%20out-00F5D4?style=for-the-badge&logo=gmail&logoColor=0F0C29&labelColor=0F0C29" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayush7g&label=Profile%20Views&color=302B63&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/aayush7g?label=Followers&style=for-the-badge&color=302B63&labelColor=0F0C29" />
+</p>
 
 <br>
 
-## 🎯 About Me
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+### 🧭 About Me
 
-```yaml
-Name: Aayush Gadiya
-Location: Pune, Maharashtra, India
-Education: BTech Computer Engineering @ VIT Pune
-Focus: AI/ML, Cloud Computing, Cybersecurity
-Status: Building the future, one line of code at a time
-```
+- 🎓 BTech Computer Engineering @ **VIT Pune**
+- 🥇 Finalist — **IIT BHU Hackathon** (AI Chat Health Manager)
+- 🛠️ Full-stack builder who ships and hosts real, working apps
+- 🧠 Focused on **AI/ML**, **cloud infrastructure**, and **secure systems**
+- 📍 Based in Pune, Maharashtra, India
+- ⚡ Fun fact: I'd rather debug a race condition at 2 AM than leave a bug for tomorrow-me
 
-🏆 **Key Achievements:**
-- 🥇 **Finalist** @ IIT BHU Hackathon – AI Chat Health Manager
-- 💻 **Full-Stack Developer** hosting dynamic applications
+</td>
+<td width="45%" valign="top" align="center">
 
----
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" style="border-radius: 12px;"/>
 
-## 🛠️ Tech Arsenal
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css,js,tailwind" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,terraform" />
-</p>
-
-### AI/ML & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Tech Arsenal
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayush7g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush7g&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
+**Languages & Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,c,php,html,css,js,tailwind&theme=dark" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush7g&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B35&point=C9D1D9" alt="GitHub Activity Graph" />
+<br><br>
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,terraform&theme=dark" />
+
+<br><br>
+
+**AI / ML & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<br><br>
+
+**Databases & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux&theme=dark" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayush7g&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aayush7g&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=C9D1D9&icon_color=00F5D4&ring_color=302B63"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7g&layout=compact&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush7g&hide_border=true&background=0F0C29&stroke=00F5D4&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush7g&theme=react-dark&hide_border=true&bg_color=0F0C29&color=00F5D4&line=00F5D4&point=FF6B6B" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aayush7g/aayush7g/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </div>
 
 ---
 
-## 💼 Featured Projects
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/aayush7g/XMachines">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush7g&repo=XMachines&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  </a>
-  <a href="https://github.com/aayush7g/AI-Chat-Health-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush7g&repo=AI-Chat-Health-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=aayush7g&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🌟 Let's Connect & Collaborate!
+### 💼 Featured Projects
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aayushgadiya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" />
-  </a>
-  <a href="https://twitter.com/aayush7g">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/aayush._724/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:aayushgadiya2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://github.com/aayush7g/XMachines">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush7g&repo=XMachines&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=C9D1D9&icon_color=00F5D4" />
+</a>
+<a href="https://github.com/aayush7g/AI-Chat-Health-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush7g&repo=AI-Chat-Health-Manager&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=C9D1D9&icon_color=00F5D4" />
+</a>
+
 </div>
 
 ---
 
-## 🎵 Coding Playlist
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316a5rgakkfclagq4exr54d2jkde&count=3&unique=true" alt="Spotify Recently Played" />
-</div>
-
----
-
-## 📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 Building AI Solutions for Agricultural Innovation
@@ -138,19 +149,19 @@ Status: Building the future, one line of code at a time
 
 ---
 
-## 💡 Daily Dev Quote
+### 💡 Daily Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
 
-<div align="center">
-  <h3>💭 "Code. Create. Connect. Repeat." 💭</h3>
-  <p><i>Always learning, always building, always sharing knowledge! 🚀</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
+
+<h3>💭 "Code. Create. Connect. Repeat." 💭</h3>
+<p><i>Always learning, always building, always sharing knowledge! 🚀</i></p>
+
 </div>
