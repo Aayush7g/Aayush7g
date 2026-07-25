@@ -33,6 +33,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Ensure dist directory is writable
+        run: |
+          mkdir -p dist
+          sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: Generate self-hosted trophy stats SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
