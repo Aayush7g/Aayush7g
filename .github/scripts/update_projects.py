@@ -15,9 +15,17 @@ import sys
 import urllib.request
 from datetime import datetime, timezone
 
-TOKEN = os.environ["GITHUB_TOKEN"]
-USERNAME = os.environ["GITHUB_USERNAME"]
+TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+USERNAME = os.environ.get("GITHUB_USERNAME") or os.environ.get("OWNER")
 OUTPUT_PATH = os.environ.get("OUTPUT_PATH", "dist/trophy.svg")
+
+if not TOKEN or not USERNAME:
+    missing = []
+    if not TOKEN:
+        missing.append("GITHUB_TOKEN or GH_TOKEN")
+    if not USERNAME:
+        missing.append("GITHUB_USERNAME or OWNER")
+    raise RuntimeError("Missing required environment variable(s): " + ", ".join(missing))
 
 BG = "#0F0C29"
 ACCENT = "#00F5D4"
