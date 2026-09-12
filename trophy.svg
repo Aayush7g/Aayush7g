@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="834" height="150" viewBox="0 0 834 150">
+  <rect width="834" height="150" fill="#0F0C29"/>
+  
+    <g transform="translate(10,10)">
+      <rect width="150" height="130" rx="12" fill="#181534" stroke="#5A5F73" stroke-width="1.5"/>
+      <text x="75.0" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" fill="#C9D1D9">Stars</text>
+      <text x="75.0" y="72" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="30" font-weight="700" fill="#00F5D4">1</text>
+      <text x="75.0" y="104" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" font-weight="700" fill="#5A5F73">Rank C</text>
+    </g>
+    <g transform="translate(176,10)">
+      <rect width="150" height="130" rx="12" fill="#181534" stroke="#5A5F73" stroke-width="1.5"/>
+      <text x="75.0" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" fill="#C9D1D9">Followers</text>
+      <text x="75.0" y="72" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="30" font-weight="700" fill="#00F5D4">4</text>
+      <text x="75.0" y="104" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" font-weight="700" fill="#5A5F73">Rank C</text>
+    </g>
+    <g transform="translate(342,10)">
+      <rect width="150" height="130" rx="12" fill="#181534" stroke="#8892B0" stroke-width="1.5"/>
+      <text x="75.0" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" fill="#C9D1D9">Repositories</text>
+      <text x="75.0" y="72" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="30" font-weight="700" fill="#00F5D4">17</text>
+      <text x="75.0" y="104" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" font-weight="700" fill="#8892B0">Rank B</text>
+    </g>
+    <g transform="translate(508,10)">
+      <rect width="150" height="130" rx="12" fill="#181534" stroke="#5A5F73" stroke-width="1.5"/>
+      <text x="75.0" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" fill="#C9D1D9">Forks Received</text>
+      <text x="75.0" y="72" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="30" font-weight="700" fill="#00F5D4">0</text>
+      <text x="75.0" y="104" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" font-weight="700" fill="#5A5F73">Rank C</text>
+    </g>
+    <g transform="translate(674,10)">
+      <rect width="150" height="130" rx="12" fill="#181534" stroke="#8892B0" stroke-width="1.5"/>
+      <text x="75.0" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" fill="#C9D1D9">Account Age</text>
+      <text x="75.0" y="72" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="30" font-weight="700" fill="#00F5D4">3y</text>
+      <text x="75.0" y="104" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+            font-size="13" font-weight="700" fill="#8892B0">Rank B</text>
+    </g>
+</svg>
